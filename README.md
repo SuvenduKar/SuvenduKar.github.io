@@ -33,7 +33,7 @@
 - Upcoming Project: Dynamic Activation Function for Solving PDEs through Neural Networks
 ## Specif Knowledge
 - *Programming:* Python, C, C++,Latex
-- *Tools:* NumPy, Pandas, TensorFlow, ScikitLearn,SQL
+- *Tools:* NumPy, Pandas, TensorFlow,PyTorch, ScikitLearn,SQL
 ## Relevant Courses
 - *Completed:* Data Programming, Introduction to Data Science, Prompt Engineering for Everyone,Numerical Linear Algebra,  Fourier Analysis, Applied Linear Algebra, Probability and Statistics, Advanced Algebra, Lonear Programming and Game Theory. 
 - *Completing:* Machine Learning for Data Sciences, Introduction to Natural Language Processing, Tensor Computation for Data Science, Random Variate in Computation.
