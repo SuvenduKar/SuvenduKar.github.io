@@ -38,11 +38,11 @@
 - Testing the logical and quantitative reasoning skills of LLMs (PaLM Text-Bison 001, LLAMA3) 
 - MTech Project: Randomized algorithms for more accurate and less computationally demanding large-scale tensor's (image, video) element forecasting.
 ## Specif Knowledge
-- *Programming:* Python, C, C++,Latex
-- *Tools:* NumPy, Pandas, TensorFlow,PyTorch, ScikitLearn,SQL
+- *Programming:* Python, C, C++,Latex,Lean
+- *Tools:* NumPy, Pandas, TensorFlow, PyTorch, ScikitLearn,SQL, PowerBI
 ## Relevant Courses
-- *Completed:* Data Programming, Introduction to Data Science, Prompt Engineering for Everyone,Numerical Linear Algebra,  Fourier Analysis, Applied Linear Algebra, Probability and Statistics, Advanced Algebra, Lonear Programming and Game Theory. 
-- *Completing:* Machine Learning for Data Sciences, Introduction to Natural Language Processing, Tensor Computation for Data Science, Random Variate in Computation.
+- *Completed:* Data Programming, Introduction to Data Science, Prompt Engineering for Everyone, Mathematical Methods for Machine Learning, Machine Learning for Data Science, Tensor Computation for Data Science, Random Variates in Computation, Numerical Linear Algebra,  Fourier Analysis, Applied Linear Algebra, Advanced Algebra, Linear Programming and Game Theory, Mathematical Finance, Stochastic Differential Equation.
+- *Completing:* Modelling and Simulation; Statistical Methods for Data Analysis; Entrepreneurship,Ethics and Societal Impacts; Research Methods.
 ## Interest
 - Analysis and Application of Probabilistic Prediction Models/Algorithms.
 
