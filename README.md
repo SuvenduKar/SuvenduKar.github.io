@@ -19,18 +19,24 @@
 - International Summer Program Online (**Osaka University**, Japan) July 2021,July 2022
 - Summer Program in Mathematics ( HRI, Uttar Pradesh), July 2022
 - Aalto Science Institutes International Summer Research Program,(**Aalto University**, Finland), May 2023-July 2023
->> Worked as a research associate in the departemnt of mathematics and system analysis 
+>> Worked on Lean4-based Automated Theorem Proving ( specifically theorems on Hilbert-Schmidt Operator) as a research assistant in the Department of Mathematics and System Analysis
+- Data Science Intern( Flipkart Internet Pvt.Ltd.,Bangalore),May 2024-August 2024
+>> Randomized and Deep Reinforcement Learning-based ( Deep Q Network, Proximal Policy Optimization) inventory optimization for increasing business profitability.
 ### Performance in Competitive Exams
 - AIR 184 in IIT JAM (Mathematics) 2021
 - AIR 47 in CSIR-JRF(Mathematrics) June 2021
 - **AIR 1** in GATE(Mathematics) 2023
 ## Projects
-- Fast and Greedy Algorithm for Matrix Decomposition( MSc)
-- Formalization of Mathematics( Aalto Science Institute Intern)
+- Fast and Greedy Algorithm for Matrix Decomposition( MSc Thesis)
+- Formalization of Mathematics( Aalto Intern)
 - Crop-Prediction using Linear Regression, DecisionTree, RandomForest methods.
 - Correlated Disease Prediction using KNN, SVM methods.
 - Stock Market Prediction using LSTM, Linear, CNN models.
-- Upcoming Project: Dynamic Activation Function for Solving PDEs through Neural Networks
+- Sentiment Analysis, SEQ2SEQ: Indian Names Recognition and Its Translation in Hindi.
+- Image Classification,Segmentation using CNN, Attention-based UNet.
+- Image and video recovery using t-product-based, m-product-based tensor-CUR decomposition.
+- Testing the logical and quantitative reasoning skills of LLMs (PaLM Text-Bison 001, LLAMA3 
+- MTech Project: Randomized algorithms for more accurate and less computationally demanding large-scale tensor's (image, video) element forecasting.
 ## Specif Knowledge
 - *Programming:* Python, C, C++,Latex
 - *Tools:* NumPy, Pandas, TensorFlow,PyTorch, ScikitLearn,SQL
