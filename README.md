@@ -21,7 +21,7 @@
 - Aalto Science Institutes International Summer Research Program,(**Aalto University**, Finland), May 2023-July 2023
 >> Worked on Lean4-based Automated Theorem Proving ( specifically theorems on Hilbert-Schmidt Operator) as a research assistant in the Department of Mathematics and System Analysis
 - Data Science Intern( Flipkart Internet Pvt.Ltd.,Bangalore),May 2024-August 2024
->> Randomized and Deep Reinforcement Learning-based ( Deep Q Network, Proximal Policy Optimization) inventory optimization towards increasing business profitability through decreasing days on hand and increasing stock service level.
+>> Randomized and Deep Reinforcement Learning-based ( Deep Q Network, Proximal Policy Optimization) inventory optimization towards increasing business profitability through decreasing days on hand and increasing instock service level.
 ### Performance in Competitive Exams
 - AIR 184 in IIT JAM (Mathematics) 2021
 - AIR 47 in CSIR-JRF(Mathematrics) June 2021
