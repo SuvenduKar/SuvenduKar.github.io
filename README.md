@@ -33,9 +33,9 @@
 - Correlated Disease Prediction using KNN, SVM methods.
 - Stock Market Prediction using LSTM, Linear, CNN models.
 - Sentiment Analysis, SEQ2SEQ: Indian Names Recognition and Its Translation in Hindi.
-- Image Classification,Segmentation using CNN, Attention-based UNet.
+- Image Classification, Segmentation using CNN, Attention-based UNet.
 - Image and video recovery using t-product-based, m-product-based tensor-CUR decomposition.
-- Testing the logical and quantitative reasoning skills of LLMs (PaLM Text-Bison 001, LLAMA3 
+- Testing the logical and quantitative reasoning skills of LLMs (PaLM Text-Bison 001, LLAMA3) 
 - MTech Project: Randomized algorithms for more accurate and less computationally demanding large-scale tensor's (image, video) element forecasting.
 ## Specif Knowledge
 - *Programming:* Python, C, C++,Latex
