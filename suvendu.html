@@ -13,6 +13,10 @@
             padding: 0;
             color: #333;
             background-color: #f4f4f4;
+            background-image: url('watermark.png'); /* Replace with your watermark image */
+            background-repeat: repeat;
+            background-size: 200px 200px; /* Adjust the size of the watermark pattern */
+            background-attachment: fixed;
         }
 
         header {
@@ -49,11 +53,12 @@
             max-width: 1200px;
             margin: 20px auto;
             padding: 0 15px;
+            background-color: rgba(255, 255, 255, 0.9); /* Adding transparency to make the watermark visible */
+            border-radius: 8px;
         }
 
         section {
             margin-bottom: 40px;
-            background-color: white;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -182,3 +187,4 @@
 </body>
 
 </html>
+
