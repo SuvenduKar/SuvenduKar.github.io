@@ -16,9 +16,9 @@
 >> Awards: Axis Bank MTech Fellowship for excellent academic achievements.
 
 ### Internships
-- International Summer Program Online (**Osaka University**, Japan) July 2021,July 2022
+- International Summer Program Online (**Osaka University, Japan**) July 2021,July 2022
 - Summer Program in Mathematics ( HRI, Uttar Pradesh), July 2022
-- Aalto Science Institutes International Summer Research Program,(**Aalto University**, Finland), May 2023-July 2023
+- Aalto Science Institutes International Summer Research Program,(**Aalto University, Finland**), May 2023-July 2023
 >> Worked on Lean4-based Automated Theorem Proving ( specifically theorems on Hilbert-Schmidt Operator) as a research assistant in the Department of Mathematics and System Analysis
 - Data Science Intern( Flipkart Internet Pvt.Ltd.,Bangalore),May 2024-August 2024
 >> Randomized and Deep Reinforcement Learning-based ( Deep Q Network, Proximal Policy Optimization) inventory optimization towards increasing business profitability through decreasing days on hand and increasing instock service level.
@@ -44,7 +44,7 @@
 - *Completed:* Data Programming, Introduction to Data Science, Prompt Engineering for Everyone, Mathematical Methods for Machine Learning, Machine Learning for Data Science, Tensor Computation for Data Science, Random Variates in Computation, Numerical Linear Algebra,  Fourier Analysis, Applied Linear Algebra, Advanced Algebra, Linear Programming and Game Theory, Mathematical Finance, Stochastic Differential Equation.
 - *Completing:* Modelling and Simulation; Statistical Methods for Data Analysis; Entrepreneurship,Ethics and Societal Impacts; Research Methods.
 ## Interest
-- Analysis and Application of Probabilistic Prediction Models/Algorithms.
+- Analysis and Application of Probabilistic Prediction(as well as diffusion and GEN AI) Models/Algorithms.
 
   
 In my spare time, I enjoy learning about the world's cultural and historical diversity.
